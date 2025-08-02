@@ -1,5 +1,5 @@
 <script>
-    import ContributionGraph from "$lib/components/ContributionGraph.svelte"
+    import ContributionGraph from "$lib/components/contribution-graph/ContributionGraph.svelte"
 </script>
 
 <main>
