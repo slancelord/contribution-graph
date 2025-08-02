@@ -3,7 +3,7 @@
 </script>
 
 <main>
-    <div>
+    <div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
         <ContributionGraph/>
     </div>
 </main>
