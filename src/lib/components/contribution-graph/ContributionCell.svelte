@@ -1,7 +1,7 @@
 <script lang="ts">
     import { parseISO, format } from 'date-fns'
     import { ru } from 'date-fns/locale'
-    import Tooltip from '../Tooltip.svelte';
+    import Tooltip from '../Tooltip.svelte'
 
     let { contribution }: {contribution: {date: string, count: number}} = $props()
 

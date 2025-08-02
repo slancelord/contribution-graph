@@ -38,14 +38,6 @@
         border-color: #000000 transparent transparent transparent;
     }
 
-    .tooltip__header, .tooltip__footer {
-        font-family: Inter;
-        font-weight: 400;
-        font-style: Regular;
-        line-height: 100%;
-        letter-spacing: 0%;
-    }
-
     .tooltip__header {
         font-size: 12px;
         color: #ffffff;
